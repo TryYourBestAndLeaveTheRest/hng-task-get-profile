@@ -15,11 +15,10 @@ Run locally
 npm install
 ```
 
-2. Create `.env` from the example and set your email/name:
+2. Create `.env` from the example
 
 ```bash
 cp .env.example .env
-# edit .env as needed
 ```
 
 3. Start the server:
